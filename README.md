@@ -8,7 +8,9 @@ Lighted example.
 # Usage
 Clone this git repo and navigate to the project directory. Follow the commands below:
 
+```text
 $ sudo npm install -g node-gyp
 $ npm install
 $ node-gyp rebuild
 $ node index.js
+```
