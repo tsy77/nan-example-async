@@ -1,0 +1,24 @@
+{
+  "name": "nan-example-async",
+  "version": "1.0.0",
+  "description": "An example of an async C++ Node addon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsy77/nan-example-async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsy77/nan-example-async/issues"
+  },
+  "homepage": "https://github.com/tsy77/nan-example-async#readme",
+  "dependencies": {
+    "bindings": "^1.3.0",
+    "nan": "^2.10.0"
+  },
+  "gypfile": true
+}
